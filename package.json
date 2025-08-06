@@ -1,0 +1,15 @@
+{
+  "name": "projeto-tarefas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx json-server ./api/api.json --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "json-server": "^0.17.4"
+  }
+}
